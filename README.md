@@ -158,6 +158,9 @@ Ref: contractor_credit_history.contractor_id > contractors.id
 project-root/
 ├── package.json
 ├── tsconfig.json
+├── lib
+├── prisma
+├── generated
 ├── nodemon.json
 ├── .env
 ├── dist/                   # (auto-generated after build)
