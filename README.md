@@ -1,7 +1,7 @@
 # Sandra_backend
 Service-Based Platform
 
-# **Project Database (ER):Link for View: https://dbdiagram.io/d/6935b9323c4ea889c6e06be4**
+# **Project Database (ER):Link for DB: https://dbdiagram.io/d/6935b9323c4ea889c6e06be4**
 ```
 
 Table users {
