@@ -378,7 +378,7 @@ For each review:
   * Password
 
 ## **11.2 Notifications**
-
+*Notification dealy based on the subecriptions.
 * consumer new post alerts
 * Message alerts
 * Enable push notifications
